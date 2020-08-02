@@ -11,7 +11,7 @@
             <el-menu router default-active="/blog/index" class="el-menu-demo" mode="horizontal">
                 <el-menu-item index="/blog/index">首页</el-menu-item>
                 <el-menu-item index="/blog/article">文章</el-menu-item>
-                <el-menu-item index="/blog/adminLogin">博客管理员登录</el-menu-item>
+                <el-menu-item index="/blog/adminLogin">管理员登录</el-menu-item>
             </el-menu>
           </el-col>
         </el-row>
